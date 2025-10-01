@@ -1,5 +1,5 @@
 package Oops.Inheritance.Is_A_Relationship;
 
-public class SingleLevel {
+public class SubChild extends Child{
 
 }
