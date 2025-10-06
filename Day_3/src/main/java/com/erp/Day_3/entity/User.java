@@ -24,7 +24,7 @@ public class User {
 
     private String role;
 
-    // Constructors
+    
     public User() {}
 
     public User(String username, String email, String password, String role) {
